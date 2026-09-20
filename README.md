@@ -1,5 +1,18 @@
 # Detecting Deforestation from Satellite Image Time Series
 
+> **Portfolio implementation — Climate Change AI Virtual Summer School 2026**  
+> Completed by **Berkant Duman**. Original tutorial authorship, citations, and license are preserved below.
+
+## Portfolio snapshot
+
+This project demonstrates an end-to-end **remote-sensing time-series classification** workflow for tropical forest monitoring. It combines vegetation-index trajectories with modern deep-learning approaches to distinguish stable forest, recent deforestation, and older clearing patterns.
+
+**Skills demonstrated:** Sentinel-2 · NDVI · satellite-image time series · 1D CNNs · Transformers · PyTorch · geospatial ML · model evaluation
+
+**Why it matters:** Reliable deforestation detection supports forest protection, carbon-accounting, conservation planning, and climate-policy enforcement.
+
+
+
 A hands-on tutorial for the Climate Change AI Virtual Summer School 2026, AI for Forestry module.
 
 Participants learn to detect tropical deforestation by treating each ground location as a time series of a vegetation index (NDVI) across one year, and training models to tell stable forest, freshly deforested, and old clearing trajectories apart. The workflow uses real Sentinel-2 imagery and official INPE PRODES deforestation labels over an active frontier in the Brazilian Amazon, then extends to AlphaEarth foundation-model embeddings (Google's Satellite Embedding dataset) read by a small time series Transformer.
