@@ -7,11 +7,17 @@ Participants learn to detect tropical deforestation by treating each ground loca
 Author:
 - Eduardo Ulises Moya-Sanchez, ulises.moya@iieg.gob.mx
 
+## Participant copy
+
+- Completed by **Berkant Duman**
+- Climate Change AI Virtual Summer School 2026
+- This fork preserves the original author, workflow, citations, and MIT license.
+
 ## Access this tutorial
 
 We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. 
 
-<a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/detect-deforestation/blob/main/detect_deforestation_time_series.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/Lonfea/detect-deforestation/blob/main/detect_deforestation_time_series.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
